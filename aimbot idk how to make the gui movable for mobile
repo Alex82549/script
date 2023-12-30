@@ -33,7 +33,7 @@ Main.Name = "Main"
 Main.Parent = infoplayers
 Main.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
 Main.Position = UDim2.new(0.01, 0, 0.3, 0)
-Main.Size = UDim2.new(0, 25, 0, 25)
+Main.Size = UDim2.new(0, 0, 0, 0)
 
 MainCorner.Name = "MainCorner"
 MainCorner.Parent = Main
@@ -83,7 +83,7 @@ loackplayerslabel.Size = UDim2.new(0, 173, 0, 22)
 loackplayerslabel.Font = Enum.Font.FredokaOne
 loackplayerslabel.Text = "Lock Players | OFF"
 loackplayerslabel.TextColor3 = Color3.fromRGB(255, 255, 255)
-loackplayerslabel.TextSize = 19.000
+loackplayerslabel.TextSize = 0
 loackplayerslabel.TextXAlignment = Enum.TextXAlignment.Left
 loackplayerslabel.TextYAlignment = Enum.TextYAlignment.Bottom
 
@@ -97,7 +97,7 @@ NamePlayers.Size = UDim2.new(0, 173, 0, 22)
 NamePlayers.Font = Enum.Font.FredokaOne
 NamePlayers.Text = "Name | N/A"
 NamePlayers.TextColor3 = Color3.fromRGB(255, 255, 255)
-NamePlayers.TextSize = 19.000
+NamePlayers.TextSize = 0
 NamePlayers.TextXAlignment = Enum.TextXAlignment.Left
 NamePlayers.TextYAlignment = Enum.TextYAlignment.Bottom
 
