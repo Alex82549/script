@@ -74,33 +74,6 @@ HealthPlayers.TextXAlignment = Enum.TextXAlignment.Left
 HealthPlayers.TextYAlignment = Enum.TextYAlignment.Bottom
 
 
-loackplayerslabel.Name = "loackplayerslabel"
-loackplayerslabel.Parent = Profile
-loackplayerslabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-loackplayerslabel.BackgroundTransparency = 0
-loackplayerslabel.Position = UDim2.new(0.1, 0, 1.1, 0)
-loackplayerslabel.Size = UDim2.new(0, 173, 0, 22)
-loackplayerslabel.Font = Enum.Font.FredokaOne
-loackplayerslabel.Text = "Lock Players | OFF"
-loackplayerslabel.TextColor3 = Color3.fromRGB(255, 255, 255)
-loackplayerslabel.TextSize = 0
-loackplayerslabel.TextXAlignment = Enum.TextXAlignment.Left
-loackplayerslabel.TextYAlignment = Enum.TextYAlignment.Bottom
-
-
-NamePlayers.Name = "NamePlayers"
-NamePlayers.Parent = Profile
-NamePlayers.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-NamePlayers.BackgroundTransparency = 0
-NamePlayers.Position = UDim2.new(1.24220526, 0, 0.0109195411, 0)
-NamePlayers.Size = UDim2.new(0, 173, 0, 22)
-NamePlayers.Font = Enum.Font.FredokaOne
-NamePlayers.Text = "Name | N/A"
-NamePlayers.TextColor3 = Color3.fromRGB(255, 255, 255)
-NamePlayers.TextSize = 0
-NamePlayers.TextXAlignment = Enum.TextXAlignment.Left
-NamePlayers.TextYAlignment = Enum.TextYAlignment.Bottom
-
 Healthbar.Name = "Healthbar"
 Healthbar.Parent = Profile
 Healthbar.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
