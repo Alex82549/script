@@ -33,7 +33,7 @@ Main.Name = "Main"
 Main.Parent = infoplayers
 Main.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
 Main.Position = UDim2.new(0.01, 0, 0.3, 0)
-Main.Size = UDim2.new(0, 263, 0, 120)
+Main.Size = UDim2.new(0, 25, 0, 25)
 
 MainCorner.Name = "MainCorner"
 MainCorner.Parent = Main
